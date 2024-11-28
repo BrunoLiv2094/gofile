@@ -1,3 +1,3 @@
 ```bash
-wget https://raw.githubusercontent.com/GustavoMends/go-up/master/go-up && chmod +x go-up && ./go-up
+wget https://raw.githubusercontent.com/BrunoLiv2094/gofile/master/go-up && chmod +x go-up && ./go-up
 ```
